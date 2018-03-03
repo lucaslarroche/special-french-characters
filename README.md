@@ -6,40 +6,40 @@
 - [**Diaeresis** (Tréma)](#diaeresis)
 - [**Cedilla** (Cédille)](#cedilla)
 - [**Euro sign** (Symbole euro)](#euro-sign)
-- [**Opening French quotation marks** (Guillemets français ouvrants)](#opening-french-quotation-marks)
-- [**Closing French quotation marks** (Guillemets français fermants)](#closing-french-quotation-marks)
+- [**French quotation marks** (Guillemets français)](#french-quotation-marks)
+- [**Ligature of o and e** (E dans l’o)](#ligature of o and e)
 
 ## Acute accent
 
-**Accent aigu** (*é*)  
+**Accent aigu** (*É*, *é*)  
 `Option` + `E` followed by the letter to accentuate
 
 ![Option + E](img/macbook-qwerty-option-e.svg)  
 
 ## Grave accent
 
-**Accent grave** (*à*, *è*, *ù*)  
+**Accent grave** (*À*, *È*, *Ù*, *à*, *è*, *ù*)  
 `Option` + `` ` `` followed by the letter to accentuate
 
 ![Option + `](img/macbook-qwerty-option-backtick.svg)  
 
 ## Circumflex
 
-**Accent circonflexe** ou "chapeau" (*â*, *ê*, *î*, *ô*, *û*)  
+**Accent circonflexe** ou "chapeau" (*Â*, *Ê*, *Î*, *Ô*, *Û*, *â*, *ê*, *î*, *ô*, *û*)  
 `Option` + `^` followed by the letter to accentuate
 
 ![Option + ^](img/macbook-qwerty-option-caret.svg)  
 
 ## Diaeresis
 
-**Tréma** (*ë*, *ï*, *ü*)  
+**Tréma** (*Ë*, *Ï*, *Ü*, *ë*, *ï*, *ü*)  
 `Option` + `U` followed by the letter to accentuate
 
 ![Option + U](img/macbook-qwerty-option-u.svg)  
 
 ## Cedilla
 
-**Cédille** (*ç*)  
+**Cédille** (*Ç*, *ç*)  
 `Option` + `C` followed by the letter where to place the diacritics
 
 ![Option + C](img/macbook-qwerty-option-c.svg)  
@@ -51,16 +51,19 @@
 
 ![Option + Shift + 2](img/macbook-qwerty-option-shift-2.svg)  
 
-## Opening French quotation marks
+## French quotation marks
 
-**Guillemets français ouvrants** (*«*)  
-`Option` + `\`
+**Guillemets français** (*«*, *»*)  
+`Option` + `\` (for opening French quotation marks)  
+`Option` + `Shift` + `\` (for closing French quotation marks)
 
 ![Option + \\](img/macbook-qwerty-option-backslash.svg)  
 
-## Closing French quotation marks
 
-**Guillemets français fermants** (*»*)  
-`Option` + `Shift` + `\`
+## Ligature of o and e
 
-![Option + Shift + \\](img/macbook-qwerty-option-shift-backslash.svg)  
+**E dans l’o** (*Œ*, *œ*)  
+`Option` + `Q`  
+`Option` + `Shift` + `Q` (For uppercase ligature)
+
+![Option + Shift + \\](img/macbook-qwerty-option-q.svg)  
