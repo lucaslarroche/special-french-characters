@@ -9,6 +9,7 @@
 - [**French quotation marks** (Guillemets français)](#french-quotation-marks)
 - [**Ligature of o and e** (E dans l’o)](#ligature-of-o-and-e)
 - [**Degree symbol** (Symbole degré)](#degree-symbol)
+- [**Non-breaking space** (Espace insécable)](#non-breaking-space)
 
 ## Acute accent
 
@@ -55,8 +56,8 @@
 ## French quotation marks
 
 **Guillemets français** (*«*, *»*)  
-`Option` + `\` (for opening French quotation marks)  
-`Option` + `Shift` + `\` (for closing French quotation marks)
+`Option` + `\` (For opening French quotation marks)  
+`Option` + `Shift` + `\` (For closing French quotation marks)
 
 ![Option + \\](img/macbook-qwerty-option-backslash.svg)  
 
@@ -74,3 +75,10 @@
 `Option` + `K`
 
 ![Option + K](img/macbook-qwerty-option-k.svg)  
+
+## Non-breaking space
+
+**Espace insécable** ( )  
+`Option` + `Shift` + `Space`
+
+![Option + Shift + Space](img/macbook-qwerty-option-shift-space.svg)  
