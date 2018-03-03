@@ -12,20 +12,25 @@
 - [Circumflex](#circumflex)
 
 ## Acute accent
-**L'accent aigu** (*é*)  
-`Option` + `E`, followed by the vowel to accentuate
 
-![Option + E](img/macbook-qwerty-option-e.svg)
+**L'accent aigu** (*é*)  
+`Option` + `E`, followed by the vowel to accentuate  
+![Option + E](img/macbook-qwerty-option-e.svg)  
 
 ## Grave accent
-**L'accent grave** (*à*, *è*, *ù*)  
-`Option` + `` ` ``, followed by the vowel to accentuate
 
-![Option + `](img/macbook-qwerty-option-backtick.svg)
+**L'accent grave** (*à*, *è*, *ù*)  
+`Option` + `` ` ``, followed by the vowel to accentuate  
+![Option + `](img/macbook-qwerty-option-backtick.svg)  
 
 ## Circumflex
-**L'accent circonflexe** ou "chapeau" (*â*, *ê*, *î*, *ô*, *û*)  
-`Option` + `^`, followed by the vowel to accentuate
 
-![Option + ^](img/macbook-qwerty-option-caret.svg)
-  
+**L'accent circonflexe** ou "chapeau" (*â*, *ê*, *î*, *ô*, *û*)  
+`Option` + `^`, followed by the vowel to accentuate  
+![Option + ^](img/macbook-qwerty-option-caret.svg)  
+
+## Circumflex
+
+**L'accent circonflexe** ou "chapeau" (*â*, *ê*, *î*, *ô*, *û*)  
+`Option` + `^`, followed by the vowel to accentuate  
+![Option + ^](img/macbook-qwerty-option-caret.svg)  
