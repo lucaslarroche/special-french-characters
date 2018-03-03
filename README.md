@@ -1,9 +1,6 @@
-<p align="center">
-  <h3 align="center">Special french characters</h3>
-  <p align="center">Special french characters on Qwerty Apple keyboards</p>
-</p>
+# Special french characters on Qwerty Apple keyboards
 
- ---
+---
 
 ## Table of contents
 
