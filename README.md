@@ -5,6 +5,7 @@
 - [**Circumflex** (Accent circonflexe)](#circumflex)
 - [**Diaeresis** (Tréma)](#diaeresis)
 - [**Cedilla** (Cédille)](#cedilla)
+- [**Euro sign** (Symbole euro)](#euro-sign)
 
 ## Acute accent
 
@@ -40,3 +41,10 @@
 `Option` + `C` followed by the letter where to place the diacritics
 
 ![Option + C](img/macbook-qwerty-option-c.svg)  
+
+## Euro sign
+
+**Symbole euro** (*€*)  
+`Option` + `Shift` + `2`
+
+![Option + Shift + 2](img/macbook-qwerty-option-shift-2.svg)  
