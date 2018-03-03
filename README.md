@@ -1,4 +1,4 @@
-# Special French characters on Qwerty Apple keyboards
+# Special French characters with Qwerty Apple keyboards
 
 - [**Acute accent** (Accent aigu)](#acute-accent)
 - [**Grave accent** (Accent grave)](#grave-accent)
