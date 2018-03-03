@@ -56,11 +56,11 @@
 **Guillemets français ouvrants** (*«*)  
 `Option` + `\`
 
-![Option + \](img/macbook-qwerty-option-backslash.svg)  
+![Option + \\](img/macbook-qwerty-option-backslash.svg)  
 
 ## Closing French quotation marks
 
-**Guillemets français fermants** (*«*)  
+**Guillemets français fermants** (*»*)  
 `Option` + `Shift` + `\`
 
-![Option + Shift + \](img/macbook-qwerty-option-shift-backslash.svg)  
+![Option + Shift + \\](img/macbook-qwerty-option-shift-backslash.svg)  
