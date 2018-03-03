@@ -1,6 +1,6 @@
 # Special french characters on Qwerty Apple keyboards
 
-- [**Acute accent** (Accent Aigu)](#acute-accent)
+- [**Acute accent** (Accent aigu)](#acute-accent)
 - [**Grave accent** (Accent grave)](#grave-accent)
 - [**Circumflex** (Accent circonflexe)](#circumflex)
 - [**Diaeresis** (Tréma)](#diaeresis)
