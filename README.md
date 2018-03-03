@@ -1,4 +1,4 @@
-# Special french characters on Qwerty Apple keyboards
+# Special French characters on Qwerty Apple keyboards
 
 - [**Acute accent** (Accent aigu)](#acute-accent)
 - [**Grave accent** (Accent grave)](#grave-accent)
@@ -6,6 +6,8 @@
 - [**Diaeresis** (Tréma)](#diaeresis)
 - [**Cedilla** (Cédille)](#cedilla)
 - [**Euro sign** (Symbole euro)](#euro-sign)
+- [**Opening French quotation marks** (Guillemets français ouvrants)](#opening-french-quotation-marks)
+- [**Closing French quotation marks** (Guillemets français fermants)](#closing-french-quotation-marks)
 
 ## Acute accent
 
@@ -48,3 +50,17 @@
 `Option` + `Shift` + `2`
 
 ![Option + Shift + 2](img/macbook-qwerty-option-shift-2.svg)  
+
+## Opening French quotation marks
+
+**Guillemets français ouvrants** (*«*)  
+`Option` + `\`
+
+![Option + \](img/macbook-qwerty-option-backslash.svg)  
+
+## Closing French quotation marks
+
+**Guillemets français fermants** (*«*)  
+`Option` + `Shift` + `\`
+
+![Option + Shift + \](img/macbook-qwerty-option-shift-backslash.svg)  
