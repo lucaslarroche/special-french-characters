@@ -7,7 +7,8 @@
 - [**Cedilla** (Cédille)](#cedilla)
 - [**Euro sign** (Symbole euro)](#euro-sign)
 - [**French quotation marks** (Guillemets français)](#french-quotation-marks)
-- [**Ligature of o and e** (E dans l’o)](#ligature of o and e)
+- [**Ligature of o and e** (E dans l’o)](#ligature-of-o-and-e)
+- [**Degree symbol** (Symbole degré)](#degree-symbol)
 
 ## Acute accent
 
@@ -59,11 +60,17 @@
 
 ![Option + \\](img/macbook-qwerty-option-backslash.svg)  
 
-
 ## Ligature of o and e
 
 **E dans l’o** (*Œ*, *œ*)  
 `Option` + `Q`  
 `Option` + `Shift` + `Q` (For uppercase ligature)
 
-![Option + Shift + \\](img/macbook-qwerty-option-q.svg)  
+![Option + Q](img/macbook-qwerty-option-q.svg)
+
+## Degree symbol
+
+**Symbole degré** (*°*)  
+`Option` + `K`
+
+![Option + K](img/macbook-qwerty-option-k.svg)  
