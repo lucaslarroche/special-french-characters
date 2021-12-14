@@ -17,12 +17,14 @@
 **Accent aigu** (*É*, *é*)  
 `Option` + `E` followed by the letter to accentuate
 
-![Option + E](img/macbook-qwerty-option-e.svg)  
+![Option + E](img/macbook-qwerty-option-e.svg)
 
 ## Apostrophe
 
-**Apostrophe** (*‘’*)  
+**Apostrophe** (*’*)  
 `Option` + `Shift` + `]`
+
+![Option + Shift + Closing Bracket](img/macbook-qwerty-option-shift-closing-bracket.svg) 
 
 ## Grave accent
 
