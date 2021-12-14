@@ -1,6 +1,7 @@
 # Special French characters with Qwerty Apple keyboards
 
 - [**Acute accent** (Accent aigu)](#acute-accent)
+- [**Apostrophe**](#apostrophe)
 - [**Grave accent** (Accent grave)](#grave-accent)
 - [**Circumflex** (Accent circonflexe)](#circumflex)
 - [**Diaeresis** (Tréma)](#diaeresis)
@@ -17,6 +18,11 @@
 `Option` + `E` followed by the letter to accentuate
 
 ![Option + E](img/macbook-qwerty-option-e.svg)  
+
+## Apostrophe
+
+**Apostrophe** (*‘’*)  
+`Option` + `Shift` + `]`
 
 ## Grave accent
 
