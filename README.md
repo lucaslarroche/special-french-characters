@@ -1,4 +1,4 @@
-# Special French characters with Qwerty Apple keyboards
+# Special French characters with ANSI QWERTY keyboards
 
 - [**Acute accent** (Accent aigu)](#acute-accent)
 - [**Apostrophe**](#apostrophe)
